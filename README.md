@@ -1,3 +1,4 @@
+⚠️ Feel free to download source code and change it by your own.
 <h2>☑️ Goal</h2>
 <p>The goal of this app is to get comfortable with implementing the MVC design pattern and thinking about the state of app. In addition, reviewing the concept of Swift Structures and using it to separate the Model from the Controller.</p>
 <h2>☑️ What I created?</h2>
